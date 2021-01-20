@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8">
+<title>
+     the personal site
+     </title>
+     <link rel="stylesheet" href="style">
+</head>
+<body style=background-color:#FAEBD7 ;>
+<table>
+<tr>
+<td><img src="profileee.png" width="200px" alt="photo of Hussam"></td>
+<td><h1><em>Hussam elanany </em></h1>
+</tr>
+</table>
+<h3> the founder of<em> this fake website</em>.</h3>
+<h3> salud para todos !</h3>
+
+<hr>
+<h3> now i am making this website  with on HTML</h3>
+<P> wich means i use the basics to make this website and if yo can see that now .. then it worked!!</p>
+<h3> my skills </h3>
+<ul>
+<li> html</li>
+<li> css </li>
+<li> arabic</li>
+<li> spanish</li>
+</ul>
+<hr>
+<h3><a href="contact">to contact me</a> </h3>
+
+</body>
+
+</html>
